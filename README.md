@@ -1,2 +1,2 @@
-# Stock_Picker-_solutions
+# Stock_Picker_solutions
 The Odin Project 
